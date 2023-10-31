@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bodega-parcial",
+  "private_key_id": "9f88344ac0079f99bcfb4ab36674d06178ae3239",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4GlfA+4fo4Nv2\nO4SPuZkVOIdABgwuyaKH72SyGoawq7M+yrmxhdQIJvQ4VgQNN4JchZYhZCcqd/VO\nxMHU8DTcZzsYYA+XVQazoTTj6HZOOI9+TyKvQ1024U8u0ST+NqpSw4jzlTiuhc/+\ntzIVf2qefmUAnngs2VCgYKWVW6GglxSU/SqIsOVtJo4ffll+/UazpnBgXL5tQK0+\nY/zz6jE3O6yc4gH44kh4sp6npy0ajsHhf8g/PTOxJGWFwrKnO63d2r6bqKAfFT5c\nbYZSc1B6DMfbW9AXYd4meNP07Zp2To5DVuNPFQo/5gmYmeMsw9cMFo803vUldB/z\nzDwCFmrpAgMBAAECggEAU3zevs1SXPFbztY+z07DdTQlYYtcivs1kZ+mcn5FBmlW\n5+rXOwINnYTMy592RugdXgfWhV39xOyReh8QJ5im4CyQSAWIDICqgVthuNj6jY5o\nxEbu27wY0YJrfjeqJv5zTwUNXikVg097e29obwdROn7nHti+dtg2EATEEm9zZHdZ\n5Ndlg/B/oQBNa6vcXM62DOkS5v3IC2AUfe5GT26IJN67K+ym6GGaGtgQI+goVJzY\npB/DVXL5xi+gN1vFepTOCHH3GHifiMxtFPF1aK9fPDjx07R8qdkGv9swA2ksNWof\nlEzQqLQzsiYn+uGRMJKJEYA6Otw3UFyBNTXSO6vkYQKBgQDjze/oM0+kFrcovwmk\nU3SWurdAcNeoHus/LszwiHH+pAnrEU2KIwrE0wSAAUjAsbWJ7b0wlO/e5sZik7Oa\nvYKPLtZx/xN1hxIsWaEM8RZgZy3930JkiISjaflNNRE3/q0qG6FGvCWbyJ5pRWDo\n74+dPzhpwphsGSpBGOl49cCL6wKBgQDO47UIw9wFlHRfALqmn9PGRJrX3klZwj0s\nwGOJTd2RS/OHtP8MFf4VE9kppClB64aejPF0rt1cBBoC4qhgSFEPjBRb9SJc0Rqn\n4MUUnZ4yMjkCPnlW5kMBDRsgOUUP20nVLklzCu8v11L6YZyEYoVjLihC2CM8Gu73\nBxC6xCJTewKBgHPg2M179GIar/bJHqV5UlAuEHN2My0w9SeBrfwY3CvU07rAZXoE\nE0FFuf9HJ/PlMdxEk703tcDkETwpt+3ZwqUFBU6dmw9osuTeft7vcBt/wNRoEgTD\nsPzTNl6AxQ5/vSQzQ9mQcW0KIxKXmRFEcwBhHVgnBZPPRUAx5OmD0PsbAoGATBOZ\nh16WMosTe7fF6u2MrzSdB9IagOIXIrSgJWY3mm0mYPmia6xOoSuKSHCwJyhXeUf0\npeaDSYnMktEL/1O4UxI8jlAG0cCmn6Lcdac7+9NR+UxFzDmh2+oY1nGYvqrxbG23\n3pDfwWTZg26PYnLj/8OCVIor8rcotjen5DWpNa8CgYB0E3ETYFjdQKMLBA9CBLGD\namI4rhSWwmjq9r6Ie4not/1oOz2DnRru9k7Ynx4oOurdJvr56HTWi5yS1UQLJdgM\nd3mwtw13niXC0yM8IolamBj4yIigkPXfCNkXLsQ0+Wg0gMJQH68QIGgLxP0Zb1zs\nJR6XPwRdME7VkZwlujef1w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-k0qn5@bodega-parcial.iam.gserviceaccount.com",
+  "client_id": "104221746420553303024",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-k0qn5%40bodega-parcial.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

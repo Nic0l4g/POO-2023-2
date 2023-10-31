@@ -3,12 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/nicga/OneDrive/Documentos/NetBeansProjects/bodegaparcial/src/access/ItemDAO.java</file>
-            <file>file:/C:/Users/nicga/OneDrive/Documentos/NetBeansProjects/bodegaparcial/src/service/bodega-parcial.json</file>
-            <file>file:/C:/Users/nicga/OneDrive/Documentos/NetBeansProjects/bodegaparcial/src/controller/ItemController.java</file>
+            <file>file:/C:/Users/nicga/OneDrive/Documentos/NetBeansProjects/bodegaparcial/src/view/veritems.java</file>
+            <file>file:/C:/Users/nicga/OneDrive/Documentos/NetBeansProjects/bodegaparcial/src/view/ventana.java</file>
+            <file>file:/C:/Users/nicga/OneDrive/Documentos/NetBeansProjects/bodegaparcial/src/model/bodega-parcial.json</file>
+            <file>file:/C:/Users/nicga/OneDrive/Documentos/NetBeansProjects/bodegaparcial/src/model/ItemDAO.java</file>
+            <file>file:/C:/Users/nicga/OneDrive/Documentos/NetBeansProjects/bodegaparcial/src/view/agregaritem.java</file>
+            <file>file:/C:/Users/nicga/OneDrive/Documentos/NetBeansProjects/bodegaparcial/src/modelview/ItemController.java</file>
             <file>file:/C:/Users/nicga/OneDrive/Documentos/NetBeansProjects/bodegaparcial/src/model/item.java</file>
-            <file>file:/C:/Users/nicga/OneDrive/Documentos/NetBeansProjects/bodegaparcial/src/bodegaparcial/Bodegaparcial.java</file>
-            <file>file:/C:/Users/nicga/OneDrive/Documentos/NetBeansProjects/bodegaparcial/src/service/Facade.java</file>
+            <file>file:/C:/Users/nicga/OneDrive/Documentos/NetBeansProjects/bodegaparcial/src/view/menu.java</file>
+            <file>file:/C:/Users/nicga/OneDrive/Documentos/NetBeansProjects/bodegaparcial/src/modelview/Bodegaparcial.java</file>
+            <file>file:/C:/Users/nicga/OneDrive/Documentos/NetBeansProjects/bodegaparcial/src/model/Facade.java</file>
         </group>
     </open-files>
 </project-private>
